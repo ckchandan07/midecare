@@ -4,11 +4,11 @@ import axios from "axios";
 const feedback = [
     {
         id: 1,
-        img: "public/Image/review-01.png",
+        img: "/Image/review-01.png",
     },
     {
         id: 2,
-        img: "public/Image/review-02.png",
+        img: "/Image/review-02.png",
     },
 ];
 
