@@ -14,7 +14,7 @@ const Innovation = () => {
       </div>
       
       <div className="flex flex-col md:flex-row justify-center items-center gap-6">
-        <div className="nurse flex flex-col gap-6">
+        <div className="nurse flex flex-col gap-15">
           <div className="doctor-card bg-white p-6 rounded-xl shadow-lg flex flex-col items-center text-center">
             <img src="/Image/nurse.png" alt="Doctor" className="w-24 h-24 mb-4" />
             <h3 className="text-lg font-semibold">Qualified Doctors</h3>
