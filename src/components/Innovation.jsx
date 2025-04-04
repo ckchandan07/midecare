@@ -16,17 +16,17 @@ const Innovation = () => {
       <div className="flex flex-col md:flex-row justify-center items-center gap-6">
         <div className="nurse flex flex-col gap-6">
           <div className="doctor-card bg-white p-6 rounded-xl shadow-lg flex flex-col items-center text-center">
-            <img src="public/Image/nurse.png" alt="Doctor" className="w-24 h-24 mb-4" />
+            <img src="/Image/nurse.png" alt="Doctor" className="w-24 h-24 mb-4" />
             <h3 className="text-lg font-semibold">Qualified Doctors</h3>
           </div>
           <div className="doctor-card bg-white p-6 rounded-xl shadow-lg flex flex-col items-center text-center">
-            <img src="https://png.pngtree.com/png-vector/20220718/ourmid/pngtree-ambulance-clipart-5-png-image_6004171.png" alt="Emergency Care" className="w-24 h-24 mb-4" />
+            <img src="/Image/van.png" alt="Emergency Care" className="w-24 h-24 mb-4" />
             <h3 className="text-lg font-semibold">Emergency Care</h3>
           </div>
         </div>
         <div className="doctor flex justify-center">
           <div className="doctor-card bg-white p-6 rounded-xl shadow-lg flex flex-col items-center text-center">
-            <img src="public/Image/doctor.png" alt="24 Hours Service" className="w-24 h-24 mb-4" />
+            <img src="/Image/doctor.png" alt="24 Hours Service" className="w-24 h-24 mb-4" />
             <h3 className="text-lg font-semibold">24 Hours Service</h3>
           </div>
         </div>
