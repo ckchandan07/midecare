@@ -1,0 +1,79 @@
+@media (max-width:1240px) {
+    .main-color {
+        padding: 0 20px;
+    }
+    .main-inv {
+        padding: 50px 20px;
+    }
+}
+@media (max-width:800px) {
+    /* .side-colo{
+        width: 380px;
+       
+      } */
+}
+
+@media (max-width:770px) {
+ 
+
+    .circle {
+        display: none;
+    }
+    .circle-2 {
+        display: none;
+    }
+
+    .best h2{
+        padding-top: 30px;
+    }
+    .doctor-card {
+        margin-top: 70px;
+    }
+
+    .start-feedback{
+        flex-direction: column;
+        align-items: center;
+        padding: 15px;
+    }
+
+    .side-colo{
+        height: 400px;
+        /* width: 350px; */
+    } 
+
+    .review-card {
+        width: 91%;
+    }
+
+    .review-card {
+        padding: 20px;
+    }
+
+    .news form {
+        margin: 10px;
+    }
+}
+
+@media (max-width:720px) {
+    .btnnn{
+        flex-direction: column;
+    }
+
+    .best{
+        width: 100%;
+        margin: 0 10px;
+      }
+      .side-colou{
+        /* max-width: 574px; */
+        width: 100%;
+        position: relative;
+        z-index: 2;
+      }
+}
+
+@media (max-width:520px) {
+    .star-news {
+        padding: 10px;
+        margin: 10px;
+    }
+}
